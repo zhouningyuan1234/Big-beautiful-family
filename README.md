@@ -9,6 +9,6 @@
 	</head>
 	<body>
 		<h1><center>大美人家</center></h1>
-		<div>成员表:<a href=""><span class="red">前往</span></button></a></div>
+		<div>成员表:<button title="go"><a href=""><span class="red">前往</span></a></button></div>
 	</body>
 </html>
